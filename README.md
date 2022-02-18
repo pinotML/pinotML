@@ -1,6 +1,7 @@
 - Hi, I’m Kim @pinotML
 - I’m interested in Statistical/Machine Learning, and Wine
-- I’m currently learning more Statistics
+- I got my PhD in Food Science, minoring in Statistics
+- I'm currently working at Brightech as a biostatistician
 - You can reach me at kimphanq@gmail.com
 
 <!---
